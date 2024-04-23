@@ -6,6 +6,8 @@ const cors = require("cors");
 
 const app = express();
 
+// explaining.
+
 app.use(cors());
 
 app.set("view engine", "ejs");
