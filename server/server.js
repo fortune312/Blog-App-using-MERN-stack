@@ -6,7 +6,7 @@ const cors = require("cors");
 
 const app = express();
 
-// explaining.
+// explain
 
 app.use(cors());
 
