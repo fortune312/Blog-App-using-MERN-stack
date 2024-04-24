@@ -1,3 +1,4 @@
+//blog routes
 const express = require("express")
 const blogRouter = express.Router();
 const { getAllBlogs , addBlog ,
